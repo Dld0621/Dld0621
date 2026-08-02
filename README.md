@@ -4,7 +4,7 @@
 
 # Hi, I'm Gangwei Li (Steven)
 
-Research Assistant @ Tsinghua University | MSc Mechanical Engineering @ HKU
+Research Assistant @ Tsinghua University | Mechanical Engineering @ HKU
 
 Currently focusing on **Embodied AI**.
 
