@@ -26,6 +26,6 @@ I build reproducible systems for embodied intelligence, with a focus on dexterou
 
 | Project | What it provides |
 |---|---|
-| **[Embodied AI: Zero to Hero](https://github.com/Dld0621/Embodied-AI-Zero-to-Hero)** | A bilingual roadmap from foundations and research pipelines to runnable baselines. |
+| **[Embodied AI: Zero to Hero](https://github.com/Dld0621/Embodied-AI-Zero-to-Hero)** | Bilingual foundations, reviewed robot-development setup, 11 engineering pipelines, runnable baselines, and evidence gates. |
 | **[Embodied AI Paper Analysis](https://github.com/Dld0621/Embodied-AI-Paper-Analysis)** | A systematic 2022–2026 conference census and bilingual research workbench. |
 | **[Dexterous Retargeting Guide](https://github.com/Dld0621/Dexterous-Retargeting-Guide)** | A practical knowledge base for human-to-robot dexterous-hand retargeting. |
