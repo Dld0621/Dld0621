@@ -26,5 +26,6 @@ I build reproducible systems for embodied intelligence, with a focus on dexterou
 
 | Project | What it provides |
 |---|---|
+| **[3D Vision: Zero to Hero](https://github.com/Dld0621/3D-Vision-Zero-to-Hero)** | A Chinese guide to point clouds, meshes, MANO, NeRF, 3D/4D Gaussian Splatting, and the capture-to-robot workflow, with verification status noted. |
 | **[Embodied AI: Zero to Hero](https://github.com/Dld0621/Embodied-AI-Zero-to-Hero)** | Bilingual foundations, reviewed robot-development setup, 11 engineering pipelines, runnable baselines, and evidence gates. |
 | **[Embodied AI Paper Analysis](https://github.com/Dld0621/Embodied-AI-Paper-Analysis)** | A systematic 2022–2026 conference census and bilingual research workbench. |
