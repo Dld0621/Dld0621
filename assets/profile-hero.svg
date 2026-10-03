@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Perception to action — Gangwei Li</title>
+<desc id="desc">Dark navy editorial banner with subtle point-cloud geometry, for an embodied AI and robotics portfolio.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1225"/><stop offset="0.58" stop-color="#142344"/><stop offset="1" stop-color="#102338"/></linearGradient><linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#65dfdc"/><stop offset="1" stop-color="#a68cff"/></linearGradient><radialGradient id="glow"><stop offset="0" stop-color="#3e7bc4" stop-opacity=".34"/><stop offset="1" stop-color="#3e7bc4" stop-opacity="0"/></radialGradient></defs>
+<rect x="0" y="0" width="1280" height="360" rx="24" fill="url(#bg)"/>
+<circle cx="1030" cy="165" r="235" fill="url(#glow)"/>
+<path d="M50 48 H1230 M50 313 H1230" stroke="#516a8c" stroke-opacity=".40"/>
+<path d="M102 313 V329 M1178 313 V329" stroke="#65dfdc" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="68" y="83" font-size="17" font-weight="700" letter-spacing="3" fill="#6ee1dd">GANGWEI LI   /   RESEARCH &amp; ENGINEERING</text>
+<text x="64" y="178" font-size="73" font-weight="700" letter-spacing="-3" fill="#f0f6ff">PERCEPTION</text>
+<text x="64" y="255" font-size="73" font-weight="700" letter-spacing="-3" fill="#e2d6ff">TO ACTION.</text>
+<text x="68" y="296" font-size="19" fill="#a9b9d4">Embodied AI  ·  Dexterous Manipulation  ·  Robot Learning</text>
+<text x="1124" y="336" font-size="13" letter-spacing="2" fill="#7d9aae">HKU  /  TSINGHUA</text>
+</g>
+<circle cx="815" cy="66" r="2.20" fill="#6cd8e5" opacity="0.20"/>
+<circle cx="855" cy="66" r="2.55" fill="#6cd8e5" opacity="0.27"/>
+<circle cx="895" cy="66" r="2.90" fill="#6cd8e5" opacity="0.34"/>
+<circle cx="935" cy="66" r="2.20" fill="#6cd8e5" opacity="0.41"/>
+<circle cx="975" cy="66" r="2.55" fill="#6cd8e5" opacity="0.20"/>
+<circle cx="1015" cy="66" r="2.90" fill="#6cd8e5" opacity="0.27"/>
+<circle cx="1055" cy="66" r="2.20" fill="#6cd8e5" opacity="0.34"/>
+<circle cx="833" cy="103" r="2.20" fill="#6cd8e5" opacity="0.27"/>
+<circle cx="873" cy="103" r="2.55" fill="#6cd8e5" opacity="0.34"/>
+<circle cx="913" cy="103" r="2.90" fill="#6cd8e5" opacity="0.41"/>
+<circle cx="953" cy="103" r="2.20" fill="#6cd8e5" opacity="0.20"/>
+<circle cx="993" cy="103" r="2.55" fill="#6cd8e5" opacity="0.27"/>
+<circle cx="1033" cy="103" r="2.90" fill="#6cd8e5" opacity="0.34"/>
+<circle cx="1073" cy="103" r="2.20" fill="#6cd8e5" opacity="0.41"/>
+<circle cx="815" cy="140" r="2.20" fill="#6cd8e5" opacity="0.34"/>
+<circle cx="855" cy="140" r="2.55" fill="#6cd8e5" opacity="0.41"/>
+<circle cx="895" cy="140" r="2.90" fill="#6cd8e5" opacity="0.20"/>
+<circle cx="935" cy="140" r="2.20" fill="#6cd8e5" opacity="0.27"/>
+<circle cx="975" cy="140" r="2.55" fill="#6cd8e5" opacity="0.34"/>
+<circle cx="1015" cy="140" r="2.90" fill="#6cd8e5" opacity="0.41"/>
+<circle cx="1055" cy="140" r="2.20" fill="#6cd8e5" opacity="0.20"/>
+<circle cx="833" cy="177" r="2.20" fill="#6cd8e5" opacity="0.41"/>
+<circle cx="873" cy="177" r="2.55" fill="#6cd8e5" opacity="0.20"/>
+<circle cx="913" cy="177" r="2.90" fill="#6cd8e5" opacity="0.27"/>
+<circle cx="953" cy="177" r="2.20" fill="#6cd8e5" opacity="0.34"/>
+<circle cx="993" cy="177" r="2.55" fill="#6cd8e5" opacity="0.41"/>
+<circle cx="1033" cy="177" r="2.90" fill="#6cd8e5" opacity="0.20"/>
+<circle cx="1073" cy="177" r="2.20" fill="#6cd8e5" opacity="0.27"/>
+<circle cx="815" cy="214" r="2.20" fill="#6cd8e5" opacity="0.20"/>
+<circle cx="855" cy="214" r="2.55" fill="#6cd8e5" opacity="0.27"/>
+<circle cx="895" cy="214" r="2.90" fill="#6cd8e5" opacity="0.34"/>
+<circle cx="935" cy="214" r="2.20" fill="#6cd8e5" opacity="0.41"/>
+<circle cx="975" cy="214" r="2.55" fill="#6cd8e5" opacity="0.20"/>
+<circle cx="1015" cy="214" r="2.90" fill="#6cd8e5" opacity="0.27"/>
+<circle cx="1055" cy="214" r="2.20" fill="#6cd8e5" opacity="0.34"/>
+<circle cx="833" cy="251" r="2.20" fill="#6cd8e5" opacity="0.27"/>
+<circle cx="873" cy="251" r="2.55" fill="#6cd8e5" opacity="0.34"/>
+<circle cx="913" cy="251" r="2.90" fill="#6cd8e5" opacity="0.41"/>
+<circle cx="953" cy="251" r="2.20" fill="#6cd8e5" opacity="0.20"/>
+<circle cx="993" cy="251" r="2.55" fill="#6cd8e5" opacity="0.27"/>
+<circle cx="1033" cy="251" r="2.90" fill="#6cd8e5" opacity="0.34"/>
+<circle cx="1073" cy="251" r="2.20" fill="#6cd8e5" opacity="0.41"/>
+<g stroke="url(#edge)" stroke-width="2" fill="none" opacity=".86">
+<path d="M936 116 L1035 74 L1139 120 L1040 165 Z"/>
+<path d="M936 116 V227 L1040 277 V165 M1139 120 V231 L1040 277"/>
+<path d="M1035 74 V185 M1035 185 L936 227 M1035 185 L1139 231" opacity=".45"/>
+<path d="M840 207 C881 211 909 188 936 171 M1139 174 C1179 168 1200 147 1220 128" stroke-dasharray="6 8" opacity=".6"/>
+</g>
+<g fill="#9fe7e9"><circle cx="936" cy="116" r="5"/><circle cx="1035" cy="74" r="5"/><circle cx="1139" cy="120" r="5"/><circle cx="1040" cy="165" r="5"/><circle cx="1040" cy="277" r="5"/></g>
+<circle cx="1040" cy="171" r="132" fill="none" stroke="#9c91e3" stroke-opacity=".20"/>
+</svg>
